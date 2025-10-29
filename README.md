@@ -4,11 +4,11 @@ This repository provides data and supplementary material to the paper **Universa
 
 The paper is available on [arXiv](https://doi.org/10.48550/arXiv.2502.18637).
 
-The repository is currently under development. Please, await its completion.
+The repository is currently under development.
 
 ## The repository structure:
-The "Data" directory contains the measured low-resolution camera images to be processed by the deep learning model stored in the "Model" directory. <be>
-The two files "func_file_Model.py" and "func_file_Localization.py" contain function definitions necessary for the .ipynb Jupyter notebooks.
+The "Data" directory contains the measured low-resolution camera images presented in the manuscript, which are to be processed by the deep learning model stored in the "Model" directory. <be>
+The two files "func_file_Model.py" and "func_file_Localization.py" contain function definitions necessary for evaluating the Jupyter notebooks.
 
 Sample_1.ipynb
 - processing the first low-resolution camera image, i.e., the sparse image containing 4 quantum dots
