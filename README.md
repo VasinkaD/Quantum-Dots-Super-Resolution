@@ -27,5 +27,5 @@ Sample_2.ipynb
 Sample_3.ipynb
 - processing the third low-resolution camera image, i.e., the quantum dots in the WSe$_2$ monolayer
 - deep learning model reconstruction of the high-resolution image
-- generates the reconstructed images presented in the manuscript
+- generates the reconstructed image presented in the manuscript
 - evaluates the resolution and additional variables presented in the text
